@@ -96,6 +96,7 @@
 </symbols>
 <devicesets>
 <deviceset name="TEMP">
+<description>Temp part to try saving parts to github</description>
 <gates>
 <gate name="G$1" symbol="TEMP" x="0" y="0"/>
 </gates>
